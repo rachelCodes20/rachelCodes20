@@ -23,8 +23,7 @@ WELCOME TO MY LITTLE GITHUB ISLAND...
 
 
 
-
-Let's Connect:
+## Let's Connect:
 
 [![image](https://user-images.githubusercontent.com/68447869/209423684-559bb479-cf32-444a-96f9-7e649a743f33.png)](https://www.linkedin.com/in/raecollins/)
 
