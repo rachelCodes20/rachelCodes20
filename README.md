@@ -5,7 +5,7 @@
 
 WELCOME TO MY LITTLE GITHUB ISLAND...
 
-> I'm a tenacious techie, whose frontend specialities are React library and the Svelte compiler, though much of my development projects have utilized Node.js, SQL and NoSQL database technologies like MySQL and MongoDB for the backend. This spring, myself and a group of engineers launched a dev tool for Svelte applications, through the tech accelerator [OS Labs](https://opensourcelabs.io/). Our tool uses a [Chrome API](https://developer.chrome.com/docs/extensions/reference/) to access the parent-child relationships of the application’s Svelte files and the content script to make changes to DOM content. I designed the frontend with CSS, HTML, and Svelte. Our [Medium article](https://svelteslicer.medium.com/) has over 400 claps…check it out!
+> I'm a tenacious techie, whose frontend specialities are React library and the Svelte compiler, though much of my development projects have utilized Node.js, SQL and NoSQL database technologies like MySQL and MongoDB for the backend. This spring, myself and a group of engineers launched a [dev tool](https://github.com/oslabs-beta/SvelteSlicer) for Svelte applications, through the tech accelerator [OS Labs](https://opensourcelabs.io/). Our tool uses a [Chrome API](https://developer.chrome.com/docs/extensions/reference/) to access the parent-child relationships of the application’s Svelte files and the content script to make changes to DOM content. I designed the frontend with CSS, HTML, and Svelte. Our [Medium article](https://svelteslicer.medium.com/) has over 400 claps…check it out!
 
 ## Let's Connect!
 
