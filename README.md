@@ -1,6 +1,6 @@
 
 
-# Hi! I'M RACHEL. ✨ 🫖 ✈️ 🍫 🎼 ✨  
+                                        ✨ 🫖 ✈️# Hi! I'M RACHEL. 🍫 🎼 ✨  
 
 WELCOME TO MY LITTLE GITHUB ISLAND...
 
