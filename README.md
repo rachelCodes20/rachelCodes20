@@ -1,7 +1,7 @@
 
 
                                        
-<p style="text-align: center;">   ✨  🫖  ✈️ Hi! I'M RACHEL. 🍫  🎼  ✨  </p>
+<p style="text-align: center;">   ✨  🫖  ✈️ Hi!! I'M RACHEL. 🍫  🎼  ✨  </p>
 
 WELCOME TO MY LITTLE GITHUB ISLAND...
 
