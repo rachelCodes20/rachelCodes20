@@ -5,7 +5,7 @@
 
 WELCOME TO MY LITTLE GITHUB ISLAND...
 
-> I'm a tenacious techie, whose frontend specialities are React library and the Svelte compiler, though much of my development projects have utilized Node.js, SQL and NoSQL database technologies like MySQL and MongoDB for the backend. 
+>I’m a UX/UI Product Designer with extensive experience in the hospitality and Customer Experience fields. I am also grateful to have a strong foundation in software engineering. My background includes hands‑on experience with frontend tools like React and Svelte, as well as backend technologies such as Node.js and SQL. I’m driven by curiosity, systems thinking, and a desire to design intuitive, human‑centered digital experiences informed by how products are actually built.
 
 
 * While studying fullstack engineering at Codesmith, myself and a group of engineers launched a [dev tool](https://github.com/oslabs-beta/SvelteSlicer) for Svelte applications, through the tech accelerator [OS Labs](https://opensourcelabs.io/). Our tool uses a [Chrome API](https://developer.chrome.com/docs/extensions/reference/) to access the parent-child relationships of the application’s Svelte files and the content script to make changes to DOM content. I designed the panels frontend with CSS, HTML, and Svelte. Our [Medium article](https://svelteslicer.medium.com/) has over 400 claps…check it out!
